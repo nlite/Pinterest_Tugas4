@@ -1,0 +1,7 @@
+<nav class="navbar navbar-inverse">
+  <div class="jumbotron">
+  	<div class="container">
+   	 <input type="submit" value="Browse Picture"/>
+  	</div>
+  </div>
+</nav>
